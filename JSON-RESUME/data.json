@@ -1,0 +1,57 @@
+{
+	"profile":{
+		"basics":{
+			"name":"Suggula Jaswanth",
+			"role":"Web Designer",
+			"email":"suggulajaswanth@gmail.com",
+			"mobile":"9441307740",
+			"address":"ANDHRA PRADESH"
+		},
+		"details":{
+			"summary":[
+				"Completed Batchalor Degree in the Branch of CSE",
+				"Having Knowlege on Fronted-Technologies like HTML5,CSS3,JAVASCRIPT",
+				"Having practical exposure on Backend-Technologies like NODE and MYSQL",
+				"Built projects using Framework like REACTJS,BOOTSTRAP and EXPRESS",
+				"Focused on programming languages like C,C++,PYTHON & JAVA"
+			],
+			"education":[
+				{ "degree":"CSE","institute":"SRM UNIVERSITY (2018-2022)",
+					"percentage":"92%"
+
+
+				},{
+					"degree":"Intermediate (M.P.C)",
+					"institute":"NRI JUNIOR COLLEGE",
+					"percentage":"94%"
+				},
+				{
+					"degree":"S.S.C",
+					"institute":"MONTESSORI E.M SCHOOL",
+					"percentage":"93%"
+
+				}
+			],
+			"skills":[
+				{
+					"type":"PROGRAMMING LANGUAGES",
+					"values":["C","C++","PYTHON","JAVA"]
+				},
+				{
+					"type":"WEB TECHNOLOGIES",
+					"values":["HTML","CSS","JAVASCRIPT"]
+				},
+				{
+					"type":"FRAMWORKS",
+					"values":["BOOTSTRAP","REACTJS","EXPRESS"]
+				},
+				{
+					"type":"DATABASES",
+					"values":["ORACLE","MYSQL","SQLITE"]
+				}
+
+			]
+
+		}
+	}
+}
